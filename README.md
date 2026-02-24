@@ -26,7 +26,7 @@ DevOps Engineer with experience managing production environments and building sc
 </p>
 
 <p align="center">
-💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies (NSE Client)<br>
+💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies Pvt. Ltd.(NSE Client)<br>
 🛠️ 1.9+ Years Experience in IT Operations & DevOps<br>
 ☁️ Working on AWS Cloud, CI/CD & Linux Servers<br>
 📈 Passionate about Automation & Scalable Infrastructure
