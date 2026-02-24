@@ -17,6 +17,13 @@ DevOps Engineer with experience managing production environments and building sc
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+<a href="https://github.com/omkarskumbhar11/omkarskumbhar11/raw/main/Omkar_Kumbhar_DevOps_Engineer_Resume.pdf">
+<img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-red?style=for-the-badge" />
+</a>
+</p>
 
 <p align="center">
 💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies (NSE Client)<br>
