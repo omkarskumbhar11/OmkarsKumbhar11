@@ -71,9 +71,72 @@ DevOps Engineer with 3.3+ years of experience in IT Operations, cloud infrastruc
 <h2 align="center">🛠️ Core Skills & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,linux,bash,git,github,nginx,maven,prometheus,grafana,python" />
-</p>
 
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gcp" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=jenkins" />
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=terraform" />
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ansible" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://nginx.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nginx" />
+</a>
+
+<a href="https://maven.apache.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=maven" />
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=prometheus" />
+</a>
+
+<a href="https://grafana.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=grafana" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+</p>
 ---
 
 <h2 align="center">🔥 DevOps Portfolio Projects</h2>
