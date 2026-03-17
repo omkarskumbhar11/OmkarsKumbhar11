@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Kumbhar</h1>
-<h3 align="center">🚀 IT Operations | DevOps Engineer | AWS | Kubernetes | CI/CD | Automation</h3>
+<h3 align="center">🚀 DevOps Engineer | IT Operations | AWS | Kubernetes | CI/CD | Automation</h3>
 
 <p align="center">
 DevOps Engineer with experience managing production environments and building scalable cloud infrastructure.
