@@ -4,19 +4,18 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Kumbhar</h1>
-<h3 align="center">🚀 IT Operation | DevOps Engineer | AWS | Kubernetes | CI/CD | Automation</h3>
+<h3 align="center">🚀 IT Operations | DevOps Engineer | AWS | Kubernetes | CI/CD | Automation</h3>
 
 <p align="center">
 DevOps Engineer with experience managing production environments and building scalable cloud infrastructure.
 </p>
 
 <p align="center">
-<img alt="DevOps" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="DevOps" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
 <h2 align="center">📄 Resume</h2>
 
 <p align="center">
@@ -25,8 +24,12 @@ DevOps Engineer with experience managing production environments and building sc
 </a>
 </p>
 
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies Pvt. Ltd.(NSE Client)<br>
+💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies Pvt. Ltd. (NSE Client)<br>
 🛠️ 1.9+ Years Experience in IT Operations & DevOps<br>
 ☁️ Working on AWS Cloud, CI/CD & Linux Servers<br>
 📈 Passionate about Automation & Scalable Infrastructure
@@ -74,7 +77,6 @@ DevOps Engineer with experience managing production environments and building sc
 
 <p align="center">
 🚧 Building Real-World DevOps Projects<br><br>
-<p align="center">
 🔹 Dockerized Application Deployment<br>
 🔹 Kubernetes 3-Tier Architecture<br>
 🔹 Jenkins CI/CD Pipeline<br>
@@ -87,11 +89,7 @@ DevOps Engineer with experience managing production environments and building sc
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=omkarskumbhar11&show_icons=true&theme=tokyonight&hide_border=true"/> -->
-<br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarskumbhar11&theme=tokyonight&hide_border=true"/>
-<br><br>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarskumbhar11&layout=compact&theme=tokyonight&hide_border=true"/> -->
 </p>
 
 ---
