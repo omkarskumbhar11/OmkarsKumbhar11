@@ -4,15 +4,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Kumbhar</h1>
-<h3 align="center">🚀 DevOps Engineer | IT Operations | AWS | Kubernetes | CI/CD | Automation</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS • GCP • Kubernetes • CI/CD • Production Systems</h3>
 
 <p align="center">
-DevOps Engineer with experience managing production environments and building scalable cloud infrastructure.
+DevOps Engineer with 3.3+ years of experience in IT Operations, cloud infrastructure, and high-availability production systems. Skilled in automation, CI/CD, and scalable cloud-native solutions.
 </p>
 
 <p align="center">
 <img alt="DevOps" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
+<br>
 
 ---
 
@@ -29,25 +30,27 @@ DevOps Engineer with experience managing production environments and building sc
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-💼 IT Operation Engineer | Jr DevOps Engineer @ Excellex Technologies Pvt. Ltd. (NSE Client)<br>
-🛠️ 1.9+ Years Experience in IT Operations & DevOps<br>
-☁️ Working on AWS Cloud, CI/CD & Linux Servers<br>
-📈 Passionate about Automation & Scalable Infrastructure
+💼 DevOps Engineer @ Excellex Technologies (Client: NSE India)<br>
+🛠️ 3.3+ Years Experience in IT Operations & DevOps<br>
+☁️ Working across AWS & GCP Cloud Environments<br>
+📈 Focused on Automation, Reliability & High Availability Systems
 </p>
 
 ---
 
-<h2 align="center">🚀 What I Do At Work</h2>
+<h2 align="center">🚀 Professional Experience</h2>
 
 <p align="center">
-🔹 Manage Production Linux Servers & Deployments<br>
-🔹 Support NSE Exchange Applications (IPO, CBR, RFQ, NDM, EBP)<br>
-🔹 Build & Maintain Jenkins CI/CD Pipelines<br>
-🔹 Deploy Applications using Docker & Tomcat<br>
-🔹 Monitor Infrastructure via AWS CloudWatch<br>
-🔹 Manage Load Balancers & Auto Scaling Groups<br>
-🔹 Handle Git workflows & Release Management<br>
-🔹 Maintain RDS MySQL Backups & Read Replicas
+🔹 Supporting 6+ NSE exchange applications in production environments<br>
+🔹 Managing 40+ Linux virtual machines across UAT & Production<br>
+🔹 Maintaining 99.9% system availability through monitoring & automation<br>
+🔹 Resolving production incidents & ensuring minimal downtime<br>
+🔹 Handling release, change & incident management processes<br>
+🔹 Building and maintaining Jenkins CI/CD pipelines<br>
+🔹 Deploying containerized applications using Docker & Kubernetes<br>
+🔹 Provisioning AWS infrastructure (EC2, VPC, S3, RDS, ELB, ASG, IAM)<br>
+🔹 Managing GCP & multi-cloud environments<br>
+🔹 Implementing monitoring with Prometheus, Grafana & CloudWatch
 </p>
 
 ---
@@ -65,10 +68,10 @@ DevOps Engineer with experience managing production environments and building sc
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Core Skills & Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,bash,git,github,nginx,maven,prometheus,grafana,python" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,linux,bash,git,github,nginx,maven,prometheus,grafana,python" />
 </p>
 
 ---
@@ -76,17 +79,18 @@ DevOps Engineer with experience managing production environments and building sc
 <h2 align="center">🔥 DevOps Portfolio Projects</h2>
 
 <p align="center">
-🚧 Building Real-World DevOps Projects<br><br>
-🔹 Dockerized Application Deployment<br>
-🔹 Kubernetes 3-Tier Architecture<br>
-🔹 Jenkins CI/CD Pipeline<br>
-🔹 Terraform AWS Infrastructure<br>
-🔹 Monitoring with Prometheus & Grafana
+🚧 Actively building real-world DevOps projects<br><br>
+
+🔹 Dockerized Multi-Container Application Deployment<br>
+🔹 Kubernetes 3-Tier Architecture (Production-Ready Setup)<br>
+🔹 Jenkins CI/CD Pipeline (Build → Test → Docker → Deploy)<br>
+🔹 Terraform AWS Infrastructure Automation<br>
+🔹 Monitoring Stack (Prometheus + Grafana + Alerts)
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarskumbhar11&theme=tokyonight&hide_border=true"/>
@@ -102,15 +106,21 @@ DevOps Engineer with experience managing production environments and building sc
 
 ---
 
-<h2 align="center">⚙️ DevOps Tools I Use Daily</h2>
+<h2 align="center">⚙️ DevOps Expertise</h2>
 
 <p align="center">
-☁️ AWS (EC2, VPC, S3, RDS, IAM, ASG, ELB, Route53)<br>
-🐳 Docker & Kubernetes<br>
-⚙️ Jenkins CI/CD & Maven<br>
-📦 Terraform (Infrastructure as Code)<br>
-📊 CloudWatch Monitoring<br>
-🐧 Linux & Shell Scripting
+☁️ AWS & GCP (EC2, VPC, S3, RDS, IAM, ASG, ELB, CloudWatch)<br>
+🐳 Docker & Kubernetes (Containerization & Orchestration)<br>
+⚙️ Jenkins CI/CD & Maven Build Automation<br>
+📦 Terraform & Infrastructure as Code<br>
+📊 Monitoring (Prometheus, Grafana, CloudWatch)<br>
+🐧 Linux Administration & Shell Scripting
+</p>
+
+---
+
+<p align="center">
+🚀 Open to DevOps & Cloud Opportunities | Let’s build scalable, reliable systems together
 </p>
 
 ---
